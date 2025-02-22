@@ -90,7 +90,9 @@ echo "Current Directory: $(pwd)"
 echo "Today's Date: $(date)"
 echo "Calendar: $(cal)"
 
+****************
 Assignments:
+****************
 Task 1: Create a basic script to display system information
 Display the current user.
 Display the current directory.
