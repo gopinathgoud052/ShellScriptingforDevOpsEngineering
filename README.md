@@ -52,4 +52,3 @@ After completing the lectures, share your thoughts on LinkedIn and **tag me** in
 ---
 
 ## 🎉 Happy Learning & Keep Automating!  
-💻 **#DevOps #ShellScripting #Automation #Linux #Jenkins #AWS**
