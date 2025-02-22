@@ -42,7 +42,7 @@ If you find this course helpful, show some ❤️ by **starring** ⭐ this repos
 
 Every ⭐ **motivates** me to create more awesome content! 🚀  
 
-[![GitHub Repo](https://img.shields.io/badge/Fork%20%26%20Star%20the%20Repo-Click%20Here-brightgreen?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_REPO_LINK)  
+[![GitHub Repo](https://img.shields.io/badge/Fork%20%26%20Star%20the%20Repo-Click%20Here-brightgreen?style=for-the-badge&logo=github)](https://github.com/KastroVKiran/ShellScriptingforDevOpsEngineering.git)  
 
 ---
 
