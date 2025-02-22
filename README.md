@@ -24,10 +24,10 @@ This course is designed to help DevOps professionals master **Shell Scripting** 
 Click on any lecture below to watch the video on **YouTube** 🎬  
 
 [![Lecture 1](https://img.shields.io/badge/-Lecture%201-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK_1)  
-[![Lecture 2](https://img.shields.io/badge/-Lecture%202-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK_2)  
-[![Lecture 3](https://img.shields.io/badge/-Lecture%203-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK_3)  
-[![Lecture 4](https://img.shields.io/badge/-Lecture%204-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK_4)  
-[![Lecture 5](https://img.shields.io/badge/-Lecture%205-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK_5)  
+[![Lecture 2](https://img.shields.io/badge/-Lecture%202-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK_2)  Releases on 26/02/2025
+[![Lecture 3](https://img.shields.io/badge/-Lecture%203-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK_3)  Releases on 01/03/2025  
+[![Lecture 4](https://img.shields.io/badge/-Lecture%204-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK_4)  Releases on 05/03/2025
+[![Lecture 5](https://img.shields.io/badge/-Lecture%205-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK_5)  Releases on 08/03/2025  
 
 *(Clicking a button will open the video in a new tab.)*  
 
