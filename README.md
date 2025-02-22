@@ -23,7 +23,7 @@ This course is designed to help DevOps professionals master **Shell Scripting** 
 
 Click on any lecture below to watch the video on **YouTube** 🎬  
 
-[![Lecture 1](https://img.shields.io/badge/-Lecture%201-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK_1)  Linux Architecture, Shell Scripting, Writing and Executing Shell Files
+[![Lecture 1](https://img.shields.io/badge/-Lecture%201-red?style=for-the-badge&logo=youtube)](https://youtu.be/pEnSvs1yj9Q)  Linux Architecture, Shell Scripting, Writing and Executing Shell Files
 
 [![Lecture 2](https://img.shields.io/badge/-Lecture%202-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK_2)  Releases on 26/02/2025  
 [![Lecture 3](https://img.shields.io/badge/-Lecture%203-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK_3)  Releases on 01/03/2025  
