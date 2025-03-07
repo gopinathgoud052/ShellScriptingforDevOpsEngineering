@@ -1,4 +1,4 @@
-									Shell Scripting for DevOps Engineers by KASTRO
+									Shell Scripting for DevOps Engineers by Gopinath
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 													LECTURE 01
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -24,7 +24,7 @@ Deployment automation
 6. Shell Scripting?
 SS is the process of writing scripts using a shell (Ex: Bash) in order to automate the tasks in Linux or Unix environments
 Shell script files will have an extension as ".sh"
-Ex: Kastro.sh, Backup.sh, health-checks.sh
+Ex: gopinath.sh, Backup.sh, health-checks.sh
 
 
 whoami
@@ -59,7 +59,7 @@ For Amazon Linux (which is based on CentOS/RHEL), Bash (/bin/bash) is the defaul
 #! /bin/bash
 echo "Enter Your Name: "
 read user_name
-echo "Hello $user_name, Welcome to Shell Scripting Course by Kastro"
+echo "Hello $user_name, Welcome to Shell Scripting Course by gopinath"
 
 Execution of a shell file
 	1. Method 1: Giving the executable permissions to the shell file before running
