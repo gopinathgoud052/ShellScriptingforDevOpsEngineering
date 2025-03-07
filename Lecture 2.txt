@@ -1,11 +1,11 @@
-									Shell Scripting for DevOps Engineers by KASTRO
+									Shell Scripting for DevOps Engineers by Gopinath
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 													LECTURE 02
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. Variables
 variable is used to store data in key-value format
-Name = Kastro
-Age = 30
+Name = Goinath
+Age = 26
 Gender = Male
 They acts as placeholders for values that can be used throughout the script
 variables doesn't require explicit data type declarations
